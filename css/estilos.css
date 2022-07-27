@@ -1,0 +1,11 @@
+.logo {
+    width:120px ;
+}
+.fondo {
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.letras p {
+    color: red;
+}
