@@ -1,11 +1,12 @@
 .logo {
     width:120px ;
 }
-.fondo {
-    background-image: url(/img/fondo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.letras p {
-    color: red;
+
+
+.slide {
+    width: 30%;
+    height: 30%;
+    margin: 0 auto;
+
+    
 }
