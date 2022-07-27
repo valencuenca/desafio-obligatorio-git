@@ -18,3 +18,13 @@
     background-position: center;
     background-attachment: fixed;
 }
+.form {
+    width: 30%;
+    
+}
+.contenedorForms {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
